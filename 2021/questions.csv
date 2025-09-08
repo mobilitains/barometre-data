@@ -1,0 +1,30 @@
+ref,question,categorie,mini,maxi,texte_mini,texte_maxi
+q13,Depuis 2 ans la situation pour les cyclistes...,Evolution,1,5,beaucoup dégradée,beaucoup améliorée
+q14,Se déplacer à vélo dans votre commune est...,Ressenti,1,6,très désagréable,très agréable
+q15,Le réseau d'itinéraires cyclables de ma commune me permet d'aller partout de façon rapide et directe.,Ressenti,1,6,Pas du tout,Tout à fait
+q16,Les conflits entre les personnes circulant à vélo et à pied sont...,Ressenti,1,6,très fréquents,très rares
+q17,"A vélo, les personnes conduisant des véhicules motorisés me respectent",Ressenti,1,6,Pas du tout,Tout à fait
+q18,"A vélo, je trouve que le trafic motorisé (volume et vitesse) est...",Ressenti,1,6,insupportable,pas du tout gênant
+q19,"Selon moi, dans ma commune, l'usage du vélo est...",Ressenti,1,6,limité à certain-e-s,très démocratisé
+q20,"En général, quand je circule à vélo dans ma commune je me sens...",Sécurité,1,6,en danger,en sécurité
+q21,Je peux circuler à vélo en sécurité sur les grands axes dans ma commune,Sécurité,1,6,Pas du tout,Tout à fait
+q22,Je peux circuler à vélo en sécurité dans les rues résidentielles,Sécurité,1,6,Pas du tout,Tout à fait
+q23,Je peux rejoindre à vélo en sécurité les communes voisines,Sécurité,1,6,Pas du tout,Tout à fait
+q24,"Selon moi, traverser un carrefour ou un rond-point est...",Sécurité,1,6,toujours dangereux,jamais dangereux
+q25,"Pour les enfants et les personnes âgées, circuler à vélo est...",Sécurité,1,6,très dangereux,très sûr
+q26,"Selon moi, les itinéraires cyclables sont...",Confort,1,6,pas du tout confortables,très confortables
+q27,L'entretien des itinéraires cyclables est...,Confort,1,6,très mauvais,très bon
+q28,Les directions à vélo sont correctement indiquées par des panneaux.,Confort,1,6,Pas du tout,Tout à fait
+q29,"Lors de travaux sur les itinéraires cyclables, une solution alternative sûre est proposée",Confort,1,6,Jamais,Toujours
+q30,"A vélo, je suis autorisé à emprunter les voies à sens unique à contre-sens",Confort,1,6,Jamais,Toujours
+q31,"Selon moi, les efforts faits en faveur du vélo par la ville sont...",Effort de la commune,1,6,inexistants,importants
+q32,La communication en faveur des déplacements à vélo est...,Effort de la commune,1,6,inexistante,importante
+q33,"La mairie est à l'écoute des besoins des usagers du vélo, elle les implique dans ses réflexions sur les mobilités et les projets d'aménagement",Effort de la commune,1,6,Jamais,Toujours
+q34,"Selon moi, le stationnement des véhicules motorisés (voitures, camions, motos...) sur les itinéraires cyclables est...",Effort de la commune,1,6,très fréquent,très rare
+q35,"Dans la commune ou à proximité, trouver un stationnement vélo adapté à mon besoin (durée, sécurité...) est...",Services et stationnements,1,6,impossible,très facile
+q36,Stationner son vélo en gare ou à une station de transports en commun est...,Services et stationnements,1,6,impossible,très facile
+q37,Louer un vélo pour quelques heures ou pour plusieurs mois est...,Services et stationnements,1,6,impossible,très facile
+q38,"Dans la commune ou à proximité, trouver un magasin ou un atelier de réparation est...",Services et stationnements,1,6,impossible,très facile
+q39,"Selon moi, les vols de vélos sont...",Services et stationnements,1,6,très fréquents,très rares
+q40,"En résumé, je dirais que les conditions pour l'usage du vélo sont...",En résumé,1,6,très mauvaises,très bonnes
+q41,"Selon moi, quels sont les 3 critères qui me semblent les plus importants pour améliorer la pratique du vélo.",En résumé,1,9,Modérer la vitesse des véhicules motorisés en ville,Un réseau cyclable complet et sans coupure

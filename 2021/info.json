@@ -1,0 +1,82 @@
+{
+  "uid": "570fc240-1e64-4476-9f55-75296e4632ca",
+  "id": "barometre-2021-france",
+  "Titre": "Données du Baromètre des Villes Cyclables 2021 pour la France entière",
+  "Description": "Ce jeu de données comprend toutes les données libres et disponibles pour la France entière issues des contributions du Baromètre de Villes Cyclables organisé par la FUB en 2021",
+  "Timestamp": 1658833422,
+  "Date": "mardi 26 juillet 2022 13:3:42",
+  "Créateur": "NEORE",
+  "Propriétaire": "Fédération des Usagers de la Bicyclette",
+  "Licence": "Open Database Licence (ODbl)",
+  "Thématiques": "barometre",
+  "Millésime": "2021",
+  "Mots Clefs": "baromètre 2021 France",
+  "Accès": "public",
+  "Contenu": [
+    {
+      "id": "b03ba9",
+      "Nom": "points_blancs-france",
+      "Description": "Position des améliorations perçues depuis 2 ans",
+      "Formats": [
+        {
+          "file_id": "8caba6",
+          "Taille": "45.32Mo",
+          "Extension": "geojson",
+          "Fichier": "points_blancs-france.geojson"
+        }
+      ]
+    },
+    {
+      "id": "364d58",
+      "Nom": "points_noirs-france",
+      "Description": "Position des points à améliorer en priorité",
+      "Formats": [
+        {
+          "file_id": "4717a0",
+          "Taille": "96.48Mo",
+          "Extension": "geojson",
+          "Fichier": "points_noirs-france.geojson"
+        }
+      ]
+    },
+    {
+      "id": "cf5e4d",
+      "Nom": "questions",
+      "Description": "Liste des questions",
+      "Formats": [
+        {
+          "file_id": "11d722",
+          "Taille": "94.97ko",
+          "Extension": "pdf",
+          "Fichier": "questions.pdf"
+        }
+      ]
+    },
+    {
+      "id": "00ae5b",
+      "Nom": "reponses-france",
+      "Description": "Liste des réponses des cyclistes pour la commune",
+      "Formats": [
+        {
+          "file_id": "5748d6",
+          "Taille": "36.92Mo",
+          "Extension": "csv",
+          "Fichier": "reponses-france.csv"
+        }
+      ]
+    },
+    {
+      "id": "d2a1c2",
+      "Nom": "stationnements-france",
+      "Description": "Position des souhaits de stationnements vélos",
+      "Formats": [
+        {
+          "file_id": "5be462",
+          "Taille": "64.01Mo",
+          "Extension": "geojson",
+          "Fichier": "stationnements-france.geojson"
+        }
+      ]
+    }
+  ]
+}
